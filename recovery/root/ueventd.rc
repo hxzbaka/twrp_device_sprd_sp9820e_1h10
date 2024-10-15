@@ -1,3 +1,4 @@
+# Fix boot issues, permissions, root mapping
 subsystem adf
 	devname uevent_devname
 
